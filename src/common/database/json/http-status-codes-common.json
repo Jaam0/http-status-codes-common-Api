@@ -1,0 +1,174 @@
+[
+    {
+        "id": 1,
+        "code": 200,
+        "message": "OK",
+        "type": "Success",
+        "description": "Request succeeded",
+        "img": "",
+        "createdAt": ""
+    },
+    {
+        "id": 2,
+        "code": 201,
+        "message": "Created",
+        "type": "Success",
+        "description": "Resource created",
+        "img": "",
+        "createdAt": ""
+    },
+    {
+        "id": 3,
+        "code": 202,
+        "message": "Accepted",
+        "type": "Success",
+        "description": "Accepted request",
+        "img": "",
+        "createdAt": ""
+    },
+    {
+        "id": 4,
+        "code": 204,
+        "message": "No Content",
+        "type": "Success",
+        "description": "Request succeeded but no content returned",
+        "img": "",
+        "createdAt": ""
+    },
+    {
+        "id": 5,
+        "code": 304,
+        "message": "Not Modified",
+        "type": "Redirection",
+        "description": "Not modified",
+        "img": "",
+        "createdAt": ""
+    },
+    {
+        "id": 6,
+        "code": 400,
+        "message": "Bad Request",
+        "type": "Client Error",
+        "description": "Request failed due to client error",
+        "img": "",
+        "createdAt": ""
+    },
+    {
+        "id": 7,
+        "code": 401,
+        "message": "Unauthorized",
+        "type": "Client Error",
+        "description": "Needs authentication",
+        "img": "",
+        "createdAt": ""
+    },
+    {
+        "id": 8,
+        "code": 403,
+        "message": "Forbidden",
+        "type": "Client Error",
+        "description": "Access forbidden",
+        "img": "",
+        "createdAt": ""
+    },
+    {
+        "id": 9,
+        "code": 404,
+        "message": "Not Found",
+        "type": "Client Error",
+        "description": "Resource not found",
+        "img": "",
+        "createdAt": ""
+    },
+    {
+        "id": 10,
+        "code": 405,
+        "message": "Not Allowed",
+        "type": "Client Error",
+        "description": "Method not allowed",
+        "img": "",
+        "createdAt": ""
+    },
+    {
+        "id": 11,
+        "code": 406,
+        "message": "Not Acceptable",
+        "type": "Client Error",
+        "description": "Request failed due to not acceptable",
+        "img": "",
+        "createdAt": ""
+    },
+    {
+        "id": 12,
+        "code": 408,
+        "message": "Request Timeout",
+        "type": "Client Error",
+        "description": "Request failed due to request timeout",
+        "img": "",
+        "createdAt": ""
+    },
+    {
+        "id": 13,
+        "code": 409,
+        "message": "Conflict",
+        "type": "Client Error",
+        "description": "Request failed due to conflict",
+        "img": "",
+        "createdAt": ""
+    },
+    {
+        "id": 14,
+        "code": 429,
+        "message": "Too Many Requests",
+        "type": "Client Error",
+        "description": "Request failed due to too many requests",
+        "img": "",
+        "createdAt": ""
+    },
+
+    {
+        "id": 15,
+        "code": 500,
+        "message": "Internal Server Error",
+        "type": "Server Error",
+        "description": "Request failed due to server error",
+        "img": "",
+        "createdAt": ""
+    },
+    {
+        "id": 16,
+        "code": 501,
+        "message": "Not Implemented",
+        "type": "Server Error",
+        "description": "Request failed due to not implemented",
+        "img": "",
+        "createdAt": ""
+    },
+    {
+        "id": 17,
+        "code": 502,
+        "message": "Bad Gateway",
+        "type": "Server Error",
+        "description": "Request failed due to bad gateway",
+        "img": "",
+        "createdAt": ""
+    },
+    {
+        "id": 18,
+        "code": 503,
+        "message": "Service Unavailable",
+        "type": "Server Error",
+        "description": "Request failed due to service unavailable",
+        "img": "",
+        "createdAt": ""
+    },
+    {
+        "id": 19,
+        "code": 504,
+        "message": "Gateway Timeout",
+        "type": "Server Error",
+        "description": "Request failed due to gateway timeout",
+        "img": "",
+        "createdAt": ""
+    }
+]
